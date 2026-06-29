@@ -73,8 +73,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'railway',
         'USER': 'root',
-        'PASSWORD': 'JxBhVUxuBXEdREYNRZLrwqEuYQHKIMbo',
-        'HOST': 'zephgr.proxy,rlwy.net',
+        'PASSWORD': 'JxBhVUxuBXEdREYNRZLrwqEuYQHKlMbo',
+        'HOST': 'zephyr.proxy.rlwy.net',
         'PORT': '26879',
     }
 }
