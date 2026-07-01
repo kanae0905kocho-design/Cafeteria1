@@ -116,6 +116,4 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Permitir peticiones desde React
-CORS_ALLOWED_ORIGINS = [
-    "https://tiny-cucurucho-033400.netlify.app",
-]
+CORS_ALLOWED_ORIGINS = True
